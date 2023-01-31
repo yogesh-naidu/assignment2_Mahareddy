@@ -5,7 +5,7 @@ I like it because, I play it very well since my childhood and my favourite posit
 
 ---
 
-### ordered list
+### My favourite volleyball team
 All Stars
 1. PSPK
 2. RC
@@ -16,3 +16,15 @@ All Stars
 * Arm and Hammer
 
 [view here](https://github.com/yogesh-naidu/assignment2_Mahareddy/blob/main/AboutMe.md)
+
+---
+
+# Countries to visit
+Below is the table, which represents my most favourite countries to visit and some reasons to spend some days there 
+
+| Country Name |  Reason of visiting | Number of spending days |
+|--------------|---------------------|-------------------------|
+|    Canada    |     Glaciers        |           25            |
+|    France    |   Architecture      |           40            |
+|    Dubai     | Deserts & Buildings |           33            |
+|    India     | Culture & Heritage  |           99            |
