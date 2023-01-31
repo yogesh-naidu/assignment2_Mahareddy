@@ -28,3 +28,10 @@ Below is the table, which represents my most favourite countries to visit and so
 |    France    |   Architecture      |           40            |
 |    Dubai     | Deserts & Buildings |           33            |
 |    India     | Culture & Heritage  |           99            |
+
+---
+
+# Funny Lines & Authors
+> A bank is a place that will lend you money if you can prove that you don’t need it. - *Bob Hope*
+
+> People say nothing is impossible, but I do nothing every day. - *Winnie the Pooh*
