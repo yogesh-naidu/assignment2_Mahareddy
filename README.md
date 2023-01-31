@@ -35,3 +35,22 @@ Below is the table, which represents my most favourite countries to visit and so
 > A bank is a place that will lend you money if you can prove that you don’t need it. - *Bob Hope*
 
 > People say nothing is impossible, but I do nothing every day. - *Winnie the Pooh*
+
+---
+
+### Code Fencing
+
+[Link to wordPress code snippet](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
+
+```
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+
+```
+[Link to Stackoverflow](https://stackoverflow.com/questions/69410580/how-i-can-solve-this-problem-on-wordpress)
