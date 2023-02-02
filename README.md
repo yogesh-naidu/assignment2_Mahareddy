@@ -40,7 +40,7 @@ Below is the table, which represents my most favourite countries to visit and so
 
 ### Code Fencing
 
-[Link to wordPress code snippet](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
+> [Link to wordPress code snippet](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
 
 ```
 <?php query_posts('cat=-3'); ?>
@@ -53,4 +53,4 @@ Below is the table, which represents my most favourite countries to visit and so
 <?php endwhile; ?>
 
 ```
-[Link to Stackoverflow](https://stackoverflow.com/questions/69410580/how-i-can-solve-this-problem-on-wordpress)
+> [Link to Stackoverflow](https://stackoverflow.com/questions/69410580/how-i-can-solve-this-problem-on-wordpress)
